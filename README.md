@@ -1,2 +1,1 @@
-# stat540-seminar1
-Temporary
+# Edited in R Studio
