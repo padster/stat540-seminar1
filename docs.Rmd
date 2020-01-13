@@ -1,5 +1,7 @@
 ---
 title: "docs"
+author: "Pat Coleman"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: github_document
 ---
 

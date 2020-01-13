@@ -1,5 +1,7 @@
 docs
 ================
+Pat Coleman
+13 January, 2020
 
 ## R Markdown
 
